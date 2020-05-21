@@ -30,7 +30,7 @@ En este análisis competitivo vamos a analizar 6 páginas webs de empresas de co
 - [Espacio Lavadero](https://espaciolavadero.com/)
 
 **Análisis Competitivo**
-![Análisis Competitivo](/documentos/AnalisisCompetivo.png) 
+![Análisis Competitivo](documentos/AnalisisCompetitivo.png) 
 
 **Conclusiones**
 
