@@ -30,7 +30,7 @@ En este análisis competitivo vamos a analizar 6 páginas webs de empresas de co
 - [Espacio Lavadero](https://espaciolavadero.com/)
 
 **Análisis Competitivo**
-![Análisis Competitivo](documentos/Analisis Competivo.png) 
+![Análisis Competitivo](documentos/AnalisisCompetivo.png) 
 
 **Conclusiones**
 
@@ -39,7 +39,7 @@ Tras ver el análisis anterior, podemos decir que:
 - Se expone información detallada de los horarios y tarifas.
 - Es recomentable especificar detalladamente la información del material que ofrece la empresa y la disponibilidad por tarifa contratada.
 - Ninguna de las empresas analizadas cuenta con servicio de disponibildiad, reserva y pago online de tarifas o salas de reunión.
-- ErranT es la única página analizada con testimonios reales que la recomienda. Una cualidad muy recomendable para ofrecer al usuario seguridad.
+- ErranT es la única página analizada con testimonios reales que la recomienda. Una cualidad muy recomendable para ofrecer seguridad al usuario.
 
 
 
