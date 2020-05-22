@@ -79,11 +79,18 @@ Tras ver el análisis anterior, podemos decir que:
 
 ### Matriz Receptora de Información
 
+![Matriz Receptora de Información](documentos/FeadbackCaptureGrid.png)  
+
 ### Arquitectura de la información
 
 #### Sitemap
 
+[Sitemap](documentos/Sitemap.png)
+
 #### Labelling
+
+[Labelling](documentos/LABELLING.pdf)
+
 
 ### Guía de diseño
 
