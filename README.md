@@ -43,11 +43,35 @@ Tras ver el análisis anterior, podemos decir que:
 
 
 
-### Investigación de usuarios
+### Investigación de usuarios: Grupos de usuarios
+
+- Emprendores que buscan empezar un negocio.
+- Personas que quieren unirse y colaborar en un nuevo negocio.
+- Pequeñas empresas recien creadas que buscan un espacio donde desarrollar su negocio.
+- Autónomos que necesitan un lugar de trabajo independiente de su casa.
+
+### Investigación de usuarios: Necesidades
+ 
+- Un espacio donde trabajar.
+- Un lugar donde encontrar trabajadores.
+- Un espacio donde colaborar con otras empresas para agrandar un negocio.
+- Un sitio donde puedes trabajar colaborando en otros negocios.
+- Una oficina de negocio económica.
+
+### Mapa de Empatía
+
+![Mapa de Empatía](documentos/MapaEmpatia.png) 
+
 
 ### Personas
 
+![Persona](documentos/persona1.png) 
+![Persona](documentos/persona2.png) 
+
 ### Journey Maps
+
+![Mapa de Experiencia de Usuario](documentos/UserJourneyMap1.png) 
+![Mapa de Experiencia de Usuario](documentos/UserJourneyMap2.png) 
 
 ### Evaluación
 
