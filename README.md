@@ -65,12 +65,12 @@ Tras ver el análisis anterior, podemos decir que:
 
 ### Personas
 
-[Armando Flores Rojas](documentos/persona1.png) 
+[Armando Flores Rojas](documentos/persona1.png)  
 [Vanessa Jörg](documentos/persona2.png) 
 
 ### Journey Maps
 
-[Mapa de Experiencia de Usuario de Armando](documentos/UserJourneyMap1.png) 
+[Mapa de Experiencia de Usuario de Armando](documentos/UserJourneyMap1.png)  
 [Mapa de Experiencia de Usuario de Vanessa](documentos/UserJourneyMap2.png) 
 
 ### Evaluación
