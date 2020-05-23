@@ -162,8 +162,8 @@ En esta sección, especificaremos algunas de las decisiones para mejorar el dise
 
 - La estructura de todas las sección de la página web será la siguiente:
 
-		- En la parte superior: Una barra de navegación (de 400px de ancho) con las principales secciones de la aplicación: Espacio Coworking Granada, La Pecera Comunicación, Blog, Iniciar sesión/Perfil y Búsqueda. Este menú seguirá el paradigma
-		- En la parte inferior: Un footer (de 60px de ancho) con acceso rápido a las redes sociales, la información de contacto y la información de accesibilidad.
+	- En la parte superior: Una barra de navegación (de 400px de ancho) con las principales secciones de la aplicación: Espacio Coworking Granada, La Pecera Comunicación, Blog, Iniciar sesión/Perfil y Búsqueda. Este menú seguirá el paradigma "Dropdown Vertical"
+	- En la parte inferior: Un footer (de 60px de ancho) con acceso rápido a las redes sociales, la información de contacto y la información de accesibilidad.
 
 - Haciendo click en el logo de la empresa se volverá a la página principal.
 
