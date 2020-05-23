@@ -241,4 +241,4 @@ A continuación, se especifican los colores utilizados para ciertos elementos de
 
 Una vez establecidos todos los patrones de diseño, procedemos a crear los bocetos a bajo nivel según las decisiones tomadas. De esta forma, nos haremos una idea general de la organización y diseño de las principales interfaces de usuarios que tendrá la nueva página web de ErranT.
 
-[Bocetos](Bocetos)
+[Bocetos](Bocetos/README.md)
