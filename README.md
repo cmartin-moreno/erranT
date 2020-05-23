@@ -207,6 +207,7 @@ Para ello, seguiremos utilizando fuentes de la familia sans serif para facilitar
 - Los títulos utilizarán **Roboto**
 
 ![Roboto](documentos/Roboto.png)
+![Arial](documentos/Arial.png)
 
 #### Estilo: Colores
 
