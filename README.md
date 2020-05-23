@@ -126,11 +126,21 @@ Finalmente, la empresa ErranT se podría ver beneficiada con la automatización 
 
 ## Diseño
 
+Una vez realizado el análisis, hemos detectado los puntos fuertes y débiles del actual diseño de ErranT. Con esta información, seremos capaces de rediseñar la página web para que presente una mejora en la UX ofrecida. Para ello, comenzaremos resumiendo la información obtenida en el análisis y planteando soluciones con la ayuda de una matriz receptora de información.
+
+A continuación, empezaremos el disñeo planteando la arquitectura de la información mediante un sitemap acompañado de un labelling.
+
+El siguiente paso será establecer algunas decisiones del nuevo diseño tanto estéticas como funcionales. Hasta que finalmente, creemos una serie de bocetos a bajo nivel que ilustraran el nuevo diseño de la pagina web de ErranT.
+
 ### Matriz Receptora de Información
+
+Para reunir toda la información recogida en el análisis, creamos la siguiente Matriz Receptora de Información. Asimismo, en la sección de "Ideas", encontramos las nuevas funcionalidades a implementar para suplir los puntos débiles detectados y conseguir una UX mejor.
 
 ![Matriz Receptora de Información](documentos/FeadbackCaptureGrid.png)  
 
 ### Arquitectura de la información
+
+Ya centrandonos en el diseño, planteamos la sigueinte arquitectura de la información mediante un Sitemap. Gracias al Sitemap, vemos la organización de las distintas secciones principales de la página, así como, un primera instancia del esquema de navegación. Para eliminar la posible ambigüedad presente en el Sitemap, incluimos un labelling donde se describre de forma breve y concisa el contenido de cada sección.
 
 #### Sitemap
 
