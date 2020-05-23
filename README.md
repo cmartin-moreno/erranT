@@ -122,15 +122,15 @@ La mayoría de problemass encontrados en ErranT derivan de no promover la intera
 
 Por otra parte, otro aspecto a mejorar sería la cantidad de información presentada sobre los materiales y servicios disponibles, ya que al resultar insuficiente puede causar inseguridad en el cliente. La solución sería incluir más información acompañada de fotos.
 
-Finalmente, la empresa ErranT se podría ver beneficiada con la automatización e informaticación de procesos como son la reserva y pago online de los productos ofrecidos.
+Finalmente, la empresa ErranT se podría ver beneficiada de la automatización e informaticación de procesos como son la reserva y pago online de los productos ofrecidos.
 
 ## Diseño
 
 Una vez realizado el análisis, hemos detectado los puntos fuertes y débiles del actual diseño de ErranT. Con esta información, seremos capaces de rediseñar la página web para que presente una mejora en la UX ofrecida. Para ello, comenzaremos resumiendo la información obtenida en el análisis y planteando soluciones con la ayuda de una matriz receptora de información.
 
-A continuación, empezaremos el disñeo planteando la arquitectura de la información mediante un sitemap acompañado de un labelling.
+A continuación, empezaremos el diseño planteando la arquitectura de la información mediante un sitemap acompañado de un labelling.
 
-El siguiente paso será establecer algunas decisiones del nuevo diseño tanto estéticas como funcionales. Hasta que finalmente, creemos una serie de bocetos a bajo nivel que ilustraran el nuevo diseño de la pagina web de ErranT.
+El siguiente paso será establecer algunas decisiones del nuevo diseño tanto estéticas como funcionales. Hasta que, finalmente, creemos una serie de bocetos a bajo nivel que ilustrarán el nuevo diseño de la pagina web de ErranT.
 
 ### Matriz Receptora de Información
 
@@ -140,7 +140,7 @@ Para reunir toda la información recogida en el análisis, creamos la siguiente 
 
 ### Arquitectura de la información
 
-Ya centrandonos en el diseño, planteamos la sigueinte arquitectura de la información mediante un Sitemap. Gracias al Sitemap, vemos la organización de las distintas secciones principales de la página, así como, un primera instancia del esquema de navegación. Para eliminar la posible ambigüedad presente en el Sitemap, incluimos un labelling donde se describre de forma breve y concisa el contenido de cada sección.
+Ya centrándonos en el diseño, planteamos la siguiente arquitectura de la información con ayuda de un Sitemap. Gracias al Sitemap, vemos la organización de las distintas secciones principales de la página, así como, un primera instancia del esquema de navegación. Para eliminar la posible ambigüedad del Sitemap, incluimos un Labelling donde se describe de forma breve y concisa el contenido de cada sección.
 
 #### Sitemap
 
