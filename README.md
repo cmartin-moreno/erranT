@@ -88,6 +88,7 @@ Ya que hemos conseguido tener un entendimiento más profundo del público objeti
 ### Journey Maps
 
 **User Journey Map: Armando**
+
 En el primer User Journey Map, Armando tiene problemas para encontrar un equipo con el que crear su nuevo negocio. Dada esta situación, se plantea probar el coworking y encuentra ErranT. En la sección de "Coworkers", encuentra varios miembros que podrían ayudarle a comenzar su idea de negocio y decide hacerse miembro de ErranT.
 
 [Mapa de Experiencia de Usuario de Armando](documentos/UserJourneyMap1.png)  
@@ -114,6 +115,14 @@ En esta ocasión, Vanessa acaba de terminar la carrera y está teniendo dificult
  - No se permiten opciones de pago y reserva online. 
 
 ### Evaluación
+
+Tras el análisis realizado, podemos decir que la UX proporcionada por ErranT es correcta. Como hemos visto con el análisis competitivo, ErranT proporciona una web bastante competitiva que presenta uno de los mejores diseños entre las los software estudiados. Sin embargo, algunas de las necesidades identificadas entre el público objetivo no son cumplidas ni por ErranT, ni por el resto de empresas investigadas.
+
+La mayoría de problemass encontrados en ErranT derivan de no promover la interacción entre miembros. Uno de los pilares fundamentalels del coworking es la colaboración entre miembros y el software no presenta funcionalidades para facilitar la comunicación entre los mismo. Se necesita un sistema de usuarios que ayude tanto a emprendores y empresas como a trabajadores a ponerse en contacto entre sí. De esta forma, ErranT llevará el trabajo colaborativo a su mayor exponente. 
+
+Por otra parte, otro aspecto a mejorar sería la cantidad de información presentada sobre los materiales y servicios disponibles, ya que al resultar insuficiente puede causar inseguridad en el cliente. La solución sería incluir más información acompañada de fotos.
+
+Finalmente, la empresa ErranT se podría ver beneficiada con la automatización e informaticación de procesos como son la reserva y pago online de los productos ofrecidos.
 
 ## Diseño
 
