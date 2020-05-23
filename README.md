@@ -34,7 +34,8 @@ En este análisis competitivo vamos a analizar 6 páginas webs de empresas de co
 
 **Conclusiones**
 
-Tras ver el análisis anterior, podemos decir que:
+Tras ver el análisis anterior, hemos sacado las siguientes conclusiones:
+
 - Todas las aplicaciones muestran información de contacto: número de teléfono, dirección, formulario de contacto, email, etc.
 - Se expone información detallada de los horarios y tarifas.
 - Es recomentable especificar detalladamente la información del material que ofrece la empresa y la disponibilidad por tarifa contratada.
@@ -45,13 +46,18 @@ Tras ver el análisis anterior, podemos decir que:
 
 ### Investigación de usuarios: Grupos de usuarios
 
+Para comenzar con la identitifación de los distintos grupos que forman el público objetivo del software, vamos a realizar alguna suposiciones sobre los distintos perfiles de usuarios que van a utilizar la aplicación:
+
 - Emprendores que buscan empezar un negocio.
 - Personas que quieren unirse y colaborar en un nuevo negocio.
-- Pequeñas empresas recien creadas que buscan un espacio donde desarrollar su negocio.
+- Pequeñas empresas recien creadas que buscan un espacio económico donde desarrollar su negocio.
 - Autónomos que necesitan un lugar de trabajo independiente de su casa.
+- Trabajadores que quieren introducirse en el mercado laboral a través de una alternativa de trabajo colaborativo.
 
 ### Investigación de usuarios: Necesidades
  
+ De esta forma, las necesidades fundamentales del público supuesto son las siguientes:
+
 - Un espacio donde trabajar.
 - Un lugar donde encontrar trabajadores.
 - Un espacio donde colaborar con otras empresas para agrandar un negocio.
@@ -60,18 +66,52 @@ Tras ver el análisis anterior, podemos decir que:
 
 ### Mapa de Empatía
 
+
+Una vez hecho el primer paso para definir el público objetivo y sus necesidades, vamos a crear un mapa de empatía para entender profundamente los grupos de usuarios identificados:
+
 ![Mapa de Empatía](documentos/MapaEmpatia.png) 
 
+De aquí extraemos la siguiente información:
+
+- Emprender es una tarea ardua que requiere de mucha dedicación y esfuerzo al principio.
+- Encontrar un equipo de trabajo con el que montar tu empresa es complicado.
+- Crear un negocio supone una inversión económica importante y el coworking presenta una altenativa más económica para situar una oficina y formar un equipo.
+- Para que un negocio tenga exito es muy importante darse a conocer entre el público objetivo y las empresas dedicadas al mismo sector. 
 
 ### Personas
+
+Ya que hemos conseguido tener un entendimiento más profundo del público objetivo, a continuación utilizaremos las dos Personas ficticias diseñadas en Prácticas para crear unos Mapas de Experiencia de Usuario en los que se simule una UX realista utilizando el actual diseño de la web de ErranT.
 
 [Armando Flores Rojas](documentos/persona1.png)  
 [Vanessa Jörg](documentos/persona2.png) 
 
 ### Journey Maps
 
+**User Journey Map: Armando**
+En el primer User Journey Map, Armando tiene problemas para encontrar un equipo con el que crear su nuevo negocio. Dada esta situación, se plantea probar el coworking y encuentra ErranT. En la sección de "Coworkers", encuentra varios miembros que podrían ayudarle a comenzar su idea de negocio y decide hacerse miembro de ErranT.
+
 [Mapa de Experiencia de Usuario de Armando](documentos/UserJourneyMap1.png)  
+ 
+ Puntos fuertes:
+ - La sección de "Coworkers" ayuda a encontrar perfiles específicos de personas con las que colaborar.
+
+ Puntos débiles:
+ - Faltan imágenes e información detallada de los materiales disponibles.
+ - No se facilita la interacción entre miembros: Los medios de contacto facilitados son externos a la página.
+
+**User Journey Map: Vanessa**
+
+En esta ocasión, Vanessa acaba de terminar la carrera y está teniendo dificultades para entrar en el mercado laboral. La mayoría de ofertas de trabajo clásicas solicitan requisitos que no puede cumplir y busca alternativas. Al descubir qué es el coworking, encuentra ErranT y decide hacerse miembro.
+
 [Mapa de Experiencia de Usuario de Vanessa](documentos/UserJourneyMap2.png) 
+
+ Puntos fuertes:
+ - Se muestra la información fudamental de las tarifas y horarios.
+ - Se muestran varias alternativas de contacto entre los usuarios y la empresa
+
+ Puntos débiles:
+ - No existe ninguna sección específica dónde se planteen ofertas concretas dónde colaborar (Interacción entre miembros pobre).
+ - No se permiten opciones de pago y reserva online. 
 
 ### Evaluación
 
