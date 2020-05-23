@@ -230,7 +230,7 @@ A continuación, se especifican los colores utilizados para ciertos elementos de
 | Texto en botones | #000000 |
 | Menús | #FFFEFC |
 | Elemento seleccionado | #FF5C5C |
-| Cajas de texto | #A1A8AA |
+| Cajas de texto | #E8E7E6 |
 | Checkboxes (fondo) | #FFFEFC |
 | Chechboxes (tick) | #FF5C5C |
 | Notificaciones | #FF5C5C |
@@ -239,5 +239,6 @@ A continuación, se especifican los colores utilizados para ciertos elementos de
 
 ### Wireframes
 
+Una vez establecidos todos los patrones de diseño, procedemos a crear los bocetos a bajo nivel según las decisiones tomadas. De esta forma, nos haremos una idea general de la organización y diseño de las principales interfaces de usuarios que tendrá la nueva página web de ErranT.
 
-
+[Bocetos](Bocetos)
