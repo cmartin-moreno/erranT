@@ -140,7 +140,11 @@ Para reunir toda la información recogida en el análisis, creamos la siguiente 
 
 ### Arquitectura de la información
 
-Ya centrándonos en el diseño, planteamos la siguiente arquitectura de la información con ayuda de un Sitemap. Gracias al Sitemap, vemos la organización de las distintas secciones principales de la página, así como, un primera instancia del esquema de navegación. Para eliminar la posible ambigüedad del Sitemap, incluimos un Labelling donde se describe de forma breve y concisa el contenido de cada sección.
+Ya centrándonos en el diseño, planteamos la siguiente arquitectura de la información con ayuda de un Sitemap. 
+
+Gracias al Sitemap, vemos la organización de las distintas secciones principales de la página, así como, un primera instancia del esquema de navegación. 
+
+Para eliminar la posible ambigüedad del Sitemap, incluimos un Labelling donde se describe de forma breve y concisa el contenido de cada sección.
 
 #### Sitemap
 
@@ -150,14 +154,87 @@ Ya centrándonos en el diseño, planteamos la siguiente arquitectura de la infor
 
 [Labelling](documentos/LABELLING.pdf)
 
-
 ### Guía de diseño
+
+En esta sección, especificaremos algunas de las decisiones para mejorar el diseño de la web de ErranT.
 
 #### Funcionalidades
 
+- La estructura de todas las sección de la página web será la siguiente:
+
+		- En la parte superior: Una barra de navegación (de 400px de ancho) con las principales secciones de la aplicación: Espacio Coworking Granada, La Pecera Comunicación, Blog, Iniciar sesión/Perfil y Búsqueda. Este menú seguirá el paradigma
+		- En la parte inferior: Un footer (de 60px de ancho) con acceso rápido a las redes sociales, la información de contacto y la información de accesibilidad.
+
+- Haciendo click en el logo de la empresa se volverá a la página principal.
+
+- Implementar un diseño breadcrumbs para que el usuario sepa su ubicación exacta en la web y se facilite la navegación.
+
+
+- Los botones de "Atrás" permitirán retroceder en un solo paso. Se guardará la siguiente información: estado de los formularios activos, ubicación exacta del usuario.
+
+- Para procesos que impliquen varios pasos como reservar una tarifa, se mostrará un seguimiento del proceso: número total de pasos y paso actual señalziado.
+
+- Priorizar la sencillez en los formularios incluyendo checkboxes o menús desplegables para preguntas con respuestas que se puedan prefijar. Además, en este tipo de campos se incluirá una opción "Otro: " para dar flexibilidad a las respuestas.
+
+- Para los campos de texto de los formularios, se facilitaran texto a modo de "Placeholder" para indicar al usuario cómo se debe rellenar.
+
+- Mostrar errores de formularios en tiempo real.
+
+- Al contratar una tarifa, se solicitará un email. Al pagar y confirmar ese servicio, se enviará un correo con un número de socio generado automáticamente. Con el email facilitado, el número de socio y una contraseña se podrá crear una cuenta de usuario para acceder a las funcionalidades de miembros. Los servicios adicionales de usuario serán:
+
+	- Publicar ofertas de colaboración.
+	- Acceder al tablón de ofertas activas y apuntarse.
+	- Crear y participar en grupos de trabajo.
+	- Crear y utilizar chats entre miembros.
+	- Acceso al servicio de disponibilidad en tiempo real. Los usuarios podrán ver el estado de los puestos de trabajo en todas las salas.
+
+- Para informar a los usuarios de las novedades y mensajes se establecerá un sistema de notificaciones.
+
+- Con la intención de aumentar la accesibilidad, se han tomado las siguientes decisiones:
+
+	- Todas las imágenes incluidas tendrán texto alternativo.
+	- Los menús seguirán el patrón "Dropdown Vertical", pero se incluirá el suficiente espacio entre opciones para no perjudicar a las personas con problemas de movilidad.
+	- La fuente de todos los textos serán totalmente escalables y adaptables a distintos niveles de tamaño y resolución. Al aumentar el zoom a unos niveles altos (>150%) los menús cambiarán a un patrón de "Acordeón Vertical" donde las subopciones se mostrarán y desaparecerán haciendo click sobre la opción principal de la que derivan.
+	- Se incluirán opciones de navegación mediante teclado. Por ejemplo: para hacer scroll se podrá pulsar el espacio.
+
 #### Estilo: Tipografía
 
+Acualmente, se utiliza la misma fuente tanto para titulos como para cuerpo: Arial. Sin embargo, este rediseño busca ante todo ser acceible y tener un esquema de navegación claro y sencillo. Por tanto, vamos a intentar diferenciar perfectamente los títulos del texto. 
+
+Para ello, seguiremos utilizando fuentes de la familia sans serif para facilitar su lectura:
+
+- El cuerpo continuará utilizando **Arial**
+- Los títulos utilizarán **Roboto**
+
+![Roboto](documentos/Roboto.png)
+
 #### Estilo: Colores
+
+En cuanto a los colores, se mantendrán la paleta actual. No obstante, en ocasiones se presentan elementos con un contraste insuficiente para personas con discapacidad visual (fuente blanca sobre fondo gris). Por lo que, se tendrá especial cuidado para garantizar una página accesible para personas con discapacidad visual. 
+
+![Colores](documentos/PaletaColores.png)
+
+A continuación, se especifican los colores utilizados para ciertos elementos de la página web:
+
+
+| Elemento | Color (HEX)|
+|:--------:|:----------:|
+| Titulos | #1A2025 |
+| Cuerpo de texto | #000000 |
+| Fondo de la aplicación |  #FFFEFC |
+| Fondo del footer | #1A2025 |
+| Titulo de la barra de navegación | #000000 |
+| Titulo del footer | #FFFEFC |
+| Botones | #FF5C5C | 
+| Texto en botones | #000000 |
+| Menús | #FFFEFC |
+| Elemento seleccionado | #FF5C5C |
+| Cajas de texto | #A1A8AA |
+| Checkboxes (fondo) | #FFFEFC |
+| Chechboxes (tick) | #FF5C5C |
+| Notificaciones | #FF5C5C |
+| Bubbles del chat | #E8E7E6 |
+|Viñetas | #FF5C5C |
 
 ### Wireframes
 
